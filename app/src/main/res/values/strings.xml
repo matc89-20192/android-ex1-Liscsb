@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">exercicio1</string>
+    <string name="labelMensagem">Alô, Mundo!</string>
 </resources>
